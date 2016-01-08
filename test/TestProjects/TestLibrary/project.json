@@ -1,7 +1,7 @@
 ﻿{
     "version": "1.0.0-*",
     "compilationOptions": {
-        "generateXmlDocumentation": true
+        "xmlDoc": true
     },
     "dependencies": {
         "System.Runtime": "4.0.21-beta-23428",

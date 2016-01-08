@@ -45,6 +45,6 @@ namespace Microsoft.Extensions.DependencyModel
 
         internal const string EmitEntryPointPropertyName = "emitEntryPoint";
 
-        internal const string GenerateXmlDocumentationPropertyName = "generateXmlDocumentation";
+        internal const string GenerateXmlDocumentationPropertyName = "xmlDoc";
     }
 }
